@@ -57,7 +57,7 @@
 				</form>
 				<div class="mt-4">
 					<div class="d-flex justify-content-center links">
-						Don't have an account? <a href="https://php-sampleregistration.herokuapp.com/?fbclid=IwAR0abSezAZcGg0mCq77CbCoSO2pv3RRmHYraEiMjcIG_EUpn3xRR-QZ1awU" class="ml-2">Sign Up</a>
+						Don't have an account? <a href="https://php-sampleregistration.herokuapp.com/" class="ml-2">Sign Up</a>
 					</div>
 					<div class="d-flex justify-content-center">
 						<a href="#">Forgot your password?</a>
