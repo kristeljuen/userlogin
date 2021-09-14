@@ -5,10 +5,10 @@
 //$db_name = "useraccounts";
 
 //Remote Database Connection
-$host = 'remotemysql.com';
-$db_name = 'dgPXnrqmh2';
-$db_user = 'dgPXnrqmh2';
-$db_pass = 'zRaIOnGspo';
+$host = 'sql6.freesqldatabase.com';
+$db_name = 'sql6436987';
+$db_user = 'sql6436987';
+$db_pass = '9UcbMJxbJ4';
 $charset = 'utf8';
 
 $dsn = "mysql:host=$host;dbname=$db_name;charset=$charset";
